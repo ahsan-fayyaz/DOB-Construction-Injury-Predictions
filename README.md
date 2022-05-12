@@ -48,3 +48,14 @@ Use the results to better inform proactive enforcement actions on high-risk cons
 
 ### Top 15 High-risk buildings
 ![image](./images/highrisk.PNG)
+
+
+### Examples
+#### (1)
+![image](./images/1.PNG)
+
+#### (2)
+![image](./images/2.PNG)
+
+#### (3)
+![image](./images/3.PNG)
