@@ -34,6 +34,7 @@ Use the results to better inform proactive enforcement actions on high-risk cons
 - Using the final model, a probability of high risk was assigned to each building
 
 ### Technologies
+![image](./images/tech.PNG)
 
 
 ### Results
@@ -59,3 +60,10 @@ Use the results to better inform proactive enforcement actions on high-risk cons
 
 #### (3)
 ![image](./images/3.PNG)
+
+
+### Top 5 High-Risk Community Boards
+![image](./images/cb.PNG)
+
+### Map
+![image](./images/map.PNG)
