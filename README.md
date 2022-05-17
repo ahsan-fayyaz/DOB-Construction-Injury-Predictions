@@ -53,10 +53,10 @@ Use the results to better inform proactive enforcement actions on high-risk cons
 
 ### Examples
 
-#### (2)
+#### (1)
 ![image](./images/2.PNG)
 
-#### (3)
+#### (2)
 ![image](./images/3.PNG)
 
 
